@@ -7,8 +7,8 @@ Soy **Adrian Salgado Hernández**, un desarrollador web con más de **3 años de
 📍 **Ubicación:** UCI, La Habana, Cuba  
 📧 **Email:** [salghernandezsalgado@gmail.com](mailto:salghernandezsalgado@gmail.com)  
 📞 **Teléfono:** +53 58140320  
-💼 **GitHub:** [adriansh0102](https://github.com/adriansh0102)
-**Portafolio: **[ Desarrollador Full Stack Developer ](https://portfolio-adrian-salgado-hh7bw6bkq-adrians-projects-067b57ad.vercel.app/)
+💼 **GitHub:** [adriansh0102](https://github.com/adriansh0102)   
+🔗 **Portafolio: **[ Desarrollador Full Stack Developer ](https://portfolio-adrian-salgado-hh7bw6bkq-adrians-projects-067b57ad.vercel.app/)
 ## 🔥 Mis estadísticas de GitHub
 ![adriansh0102's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriansh0102&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriansh0102&theme=tokyonight" alt="My streak"/>
