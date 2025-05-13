@@ -22,7 +22,7 @@ Soy **Adrian Salgado Hernández**, un desarrollador web con más de **3 años de
 
 ## 📚 Educación
 🎓 **Universidad de Ciencias Informáticas (UCI) | Ingeniero en Ciencias Informáticas**  
-📅 **2021 - 2025**  
+📅 **2021 - 2024**  
 💡 Cursos destacados: Desarrollo Web, Fullstack, Backend, Frontend, SQL  
 
 ## 💼 Experiencia laboral
@@ -37,9 +37,6 @@ Soy **Adrian Salgado Hernández**, un desarrollador web con más de **3 años de
 - **DlsCosmos** - Frontend para un agente conversacional. [🔗 Ver Proyecto](https://dlscosmos.appsdatalisoft.com/)  
 - **PanaTransfer** - Gestión de cuentas bancarias, roles y permisos.  
 - **Plataforma Federada de la Prensa Cubana** - Gestión de datos de la prensa con Next.js y PostgreSQL.  
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me</h6>
 
 ------
 Última actualización: 12/05/2025
