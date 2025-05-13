@@ -1,29 +1,45 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### 😺 I am a student at SMK Telkom Malang
+### 🚀 Full Stack Developer | Ingeniero en Ciencias Informáticas
 
-### So, currently, this is my first try making my README—hope you like it! 😄
-### And you can call me Adrian.
+Soy **Adrian Salgado Hernández**, un desarrollador web con más de **3 años de experiencia** en la creación de aplicaciones web y APIs RESTful. Mi enfoque principal está en tecnologías como **HTML, CSS, JavaScript, React, Node.js, SQL y NoSQL**.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+📍 **Ubicación:** UCI, La Habana, Cuba  
+📧 **Email:** [salghernandezsalgado@gmail.com](mailto:salghernandezsalgado@gmail.com)  
+📞 **Teléfono:** +53 58140320  
+💼 **GitHub:** [adriansh0102](https://github.com/adriansh0102)
 
-## By the way, here are some of my statistics 🚀
+## 🔥 Mis estadísticas de GitHub
 ![adriansh0102's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriansh0102&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriansh0102&theme=tokyonight" alt="My streak"/>
 ![adriansh0102's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansh0102&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning Android development in dicoding.com with Kotlin.
+## 💻 Tecnologías y habilidades
+- **Frontend:** HTML, CSS, JavaScript, Tailwind, React, Next.js  
+- **Backend:** Node.js, Express, Nest.js  
+- **Bases de datos:** SQL, NoSQL, MongoDB, PostgreSQL  
+- **Herramientas:** Git, GitHub  
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 📚 Educación
+🎓 **Universidad de Ciencias Informáticas (UCI) | Ingeniero en Ciencias Informáticas**  
+📅 **2021 - 2025**  
+💡 Cursos destacados: Desarrollo Web, Fullstack, Backend, Frontend, SQL  
 
-## Contact me: 
-📫 [![Gmail Badge](https://img.shields.io/badge/-adrian.email@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:adrian.email@gmail.com)](mailto:adrian.email@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-adrian_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/adrian_21_/)](https://www.instagram.com/adrian_21_/)
+## 💼 Experiencia laboral
+- **🚀 Datalisoft - Desarrollador Web Frontend (2025 - Presente)**  
+  Desarrollo de aplicaciones web con React y Next.js, implementando soluciones responsivas e innovadoras.  
+- **💻 Parque Científico de La Habana - Desarrollador Fullstack (2024)**  
+  Creación de una aplicación web para la gestión de datos de la Prensa Cubana.  
+- **🔗 Clientes Finales - Desarrollador Fullstack (2023 - 2024)**  
+  Desarrollo de soluciones web para gestión financiera y tiendas online.  
+
+## 🔨 Proyectos Destacados
+- **DlsCosmos** - Frontend para un agente conversacional. [🔗 Ver Proyecto](https://dlscosmos.appsdatalisoft.com/)  
+- **PanaTransfer** - Gestión de cuentas bancarias, roles y permisos.  
+- **Plataforma Federada de la Prensa Cubana** - Gestión de datos de la prensa con Next.js y PostgreSQL.  
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">Made with ❤️ by Me</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
-
-Last Edited on: 12/05/2025
+Última actualización: 12/05/2025
